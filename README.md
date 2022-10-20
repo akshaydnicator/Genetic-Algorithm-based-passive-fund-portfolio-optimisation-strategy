@@ -4,5 +4,5 @@
 
 This repository holds the data and scripts for the project.
 
-![Workflow](https://github.com/akshaydnicator/ClimateChangeReddit/blob/main/Workflow.png)
-**Infographic abstract showing the various steps in the workflow**
+![Workflow](https://github.com/akshaydnicator/Nifty50PortfolioOptimizationGA/blob/main/workflow.PNG)
+**Figure 1. Infographic abstract showing the various steps in the workflow**
